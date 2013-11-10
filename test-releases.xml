@@ -1,0 +1,128 @@
+<releases>
+	<release>
+		<artists>
+			<artist>
+				<id>1</id>
+				<name>Artist 1</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 1" />
+		</labels>
+		<country>UK</country>
+		<released>2005</released>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>
+	<release>
+		<artists>
+			<artist>
+				<id>2</id>
+				<name>Artist 2</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 2" />
+		</labels>
+		<country>UK</country>
+		<released>2005</released>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>
+	<release>
+		<artists>
+			<artist>
+				<id>3</id>
+				<name>Artist 3</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 1" />
+		</labels>
+		<styles>
+			<style>test</style>
+		</styles>
+		<country>UK</country>
+		<released>2005</released>
+	</release>	
+	<release>
+		<artists>
+			<artist>
+				<id>3</id>
+				<name>Artist 3</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 1" />
+		</labels>
+		<country>UK</country>
+		<released>2005</released>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>
+	<release>
+		<artists>
+			<artist>
+				<id>3</id>
+				<name>Artist 3</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 2" />
+		</labels>
+		<country>UK</country>
+		<released>2005</released>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>
+	<release>
+		<artists>
+			<artist>
+				<id>3</id>
+				<name>Artist 4</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 2" />
+		</labels>
+		<country>US</country>
+		<released>2005</released>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>	
+	<release>
+		<artists>
+			<artist>
+				<id>3</id>
+				<name>Artist 5</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 2" />
+		</labels>
+		<country>UK</country>
+		<released>2010</released>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>
+	<release>
+		<artists>
+			<artist>
+				<id>194</id>
+				<name>Various</name>
+			</artist>
+		</artists>
+		<labels>
+			<label name="Label 2" />
+		</labels>
+		<styles>
+			<style>test</style>
+		</styles>
+	</release>
+</releases>
